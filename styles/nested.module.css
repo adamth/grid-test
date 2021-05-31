@@ -1,0 +1,7 @@
+.wrapper {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: #fff;
+  color: #444;
+}
